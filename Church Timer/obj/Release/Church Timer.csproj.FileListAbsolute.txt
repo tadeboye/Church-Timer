@@ -1,0 +1,29 @@
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\bin\Release\Church Timer.exe.config
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\bin\Release\Church Timer.exe
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\bin\Release\Church Timer.pdb
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church Timer.csprojResolveAssemblyReference.cache
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.frmChurchTimer.resources
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.frmcountdown.resources
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.Properties.Resources.resources
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church Timer.csproj.GenerateResource.Cache
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church Timer.exe
+C:\Users\Okiki\Documents\Visual Studio 2012\Projects\Church Timer\Church Timer\obj\Release\Church Timer.pdb
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\bin\Release\Church Timer.exe.config
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\obj\Release\Church Timer.exe
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\obj\Release\Church Timer.pdb
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\bin\Release\Church Timer.exe
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\bin\Release\Church Timer.pdb
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.frmChurchTimer.resources
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.frmcountdown.resources
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.Properties.Resources.resources
+C:\Users\Okiki\Documents\Visual Studio 2013\Projects\Church Timer\Church Timer\obj\Release\Church Timer.csproj.GenerateResource.Cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\bin\Release\Church Timer.exe.config
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church Timer.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church Timer.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\bin\Release\Church Timer.exe
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\bin\Release\Church Timer.pdb
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church Timer.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.frmChurchTimer.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.frmcountdown.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church_Timer.Properties.Resources.resources
+C:\Users\Me\Documents\Visual Studio 2015\Projects\Church Timer\Church Timer\obj\Release\Church Timer.csproj.GenerateResource.Cache
